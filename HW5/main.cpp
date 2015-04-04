@@ -1,5 +1,5 @@
 // ITP 365 Fall 2014
-// HW1 – Sieve of Eratosthenes
+// HW1 ?Sieve of Eratosthenes
 // Name: Tommy Trojan
 // Email: ttrojan@usc.edu
 // Platform: Windows
